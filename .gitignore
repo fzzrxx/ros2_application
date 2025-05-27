@@ -1,0 +1,16 @@
+# Build and install folders
+build/
+install/
+log/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Swap and temp files
+*.swp
+*.swo
+.colcon/
+
+# macOS system files
+.DS_Store
